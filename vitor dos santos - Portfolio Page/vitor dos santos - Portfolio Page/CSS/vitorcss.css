@@ -84,7 +84,7 @@ header{
 /*FOOTER------------------------------------------------------------------*/
 footer.container{display: flex;}
     
-footer{background-color: #c593ff; color: black;font-size: .8rem;}
+footer{background-color: #c593ff; color: black;font-size: .8rem; position: fixed; width: 100%; bottom: 7;}
     
 footer p{text-align: center;line-height: 35px;color: #000000;}
     
